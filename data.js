@@ -1,4 +1,5 @@
 // Here the images data, where i used the Postimg for images.
+// Here is the link you can use https://postimages.org/
 
 export const catsData = [
   {

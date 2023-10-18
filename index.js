@@ -25,6 +25,8 @@ function closeModal() {
   memeModal.style.display = "none";
 }
 
+// the render images meme cats function
+
 function renderCat() {
   const catObject = getSingleCatObject();
   memeModalInner.innerHTML = `
